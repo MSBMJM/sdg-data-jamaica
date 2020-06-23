@@ -1,13 +1,27 @@
-Year,Vaccine,sex,Wealth Quintile,Geographic Location,Value
-2011,BCG,Male,,,99.7
-2011,BCG,Female,,,99.4
-2011,BCG,,Poorest,,98.3
-2011,BCG,,Second,,100
-2011,BCG,,Middle,,99.2
-2011,BCG,,Fourth,,100
-2011,BCG,,Richest,,100
-2011,BCG,,,Urban,
-2011,BCG,,,KMA,100
-2011,BCG,,,Other Towns,100
-2011,BCG,,,Urban Total,100
-2011,BCG,,,Rural,98.9
+Year,Vaccine,sex,Wealth Quintile,Geographic Location,Total,Value
+2011,BCG,Male,,,,99.7
+2011,BCG,Female,,,,99.4
+2011,BCG,,Poorest,,,98.3
+2011,BCG,,Second,,,100
+2011,BCG,,Middle,,,99.2
+2011,BCG,,Fourth,,,100
+2011,BCG,,Richest,,,100
+2011,BCG,,,,total,99.5
+2011,BCG,,,Urban,,
+2011,BCG,,,KMA,,100
+2011,BCG,,,Other Towns,,100
+2011,BCG,,,Urban Total,,100
+2011,BCG,,,Rural,,98.9
+2011,Polio 1,Male,,,,94.8
+2011,Polio 1,Female,,,,99.4
+2011,Polio 1,,Poorest,,,98.3
+2011,Polio 1,,Second,,,100
+2011,Polio 1,,Middle,,,93.4
+2011,Polio 1,,Fourth,,,98.5
+2011,Polio 1,,Richest,,,95.2
+2011,Polio 1,,,Urban,,
+2011,Polio 1,,,KMA,,94.3
+2011,Polio 1,,,Other Towns,,100
+2011,Polio 1,,,Urban Total,,96.6
+2011,Polio 1,,,Rural,,97.6
+2011,Polio 2,,,,total,97
