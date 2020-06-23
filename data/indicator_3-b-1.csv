@@ -1,4 +1,4 @@
-Year,Vaccine,sex,Wealth_Quintile,Geographic,Value
+Year,Vaccine,Sex,Weealth,Location,Value
 2011,BCG,Male,,,99.7
 2011,BCG,Female,,,99.4
 2011,BCG,,Poorest,,98.3
