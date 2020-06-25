@@ -25,3 +25,29 @@ Year,Vaccine,sex,Wealth Quintile,Geographic Location,Total,Value
 2011,Polio 1,,,Urban Total,,96.6
 2011,Polio 1,,,Rural,,97.6
 2011,Polio 1,,,,total,97
+2011,None,Male,,,,0.3
+2011,None,Female,,,,0.6
+2011,None,,Poorest,,,1.7
+2011,None,,Second,,,0
+2011,None,,Middle,,,0.8
+2011,None,,Fourth,,,0
+2011,None,,Richest,,,0
+2011,None,,,Urban,,
+2011,None,,,KMA,,0
+2011,None,,,Other Towns,,0
+2011,None,,,Urban Total,,0
+2011,None,,,Rural,,1.1
+2011,None,,,,total,0.5
+2011,Hep B 3,Male,,,,87.1
+2011,Hep B 3,Female,,,,89.8
+2011,Hep B 3,,Poorest,,,87.7
+2011,Hep B 3,,Second,,,95.5
+2011,Hep B 3,,Middle,,,77
+2011,Hep B 3,,Fourth,,,90.7
+2011,Hep B 3,,Richest,,,91.9
+2011,Hep B 3,,,Urban,,
+2011,Hep B 3,,,KMA,,87.1
+2011,Hep B 3,,,Other Towns,,91.6
+2011,Hep B 3,,,Urban Total,,89
+2011,Hep B 3,,,Rural,,87.7
+2011,Hep B 3,,,,total,88.4
