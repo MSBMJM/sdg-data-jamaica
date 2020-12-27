@@ -1,7 +1,71 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Parish,Location of Shelter,Value
+2018,Kingston and St Andrew,School,101
+2018,Kingston and St Andrew,Church,6
+2018,Kingston and St Andrew,Community Centre,5
+2018,Kingston and St Andrew,Other,0
+2018,Kingston and St Andrew,Total,112
+2018,St Thomas,School,45
+2018,St Thomas,Church,4
+2018,St Thomas,Community Centre,3
+2018,St Thomas,Other,0
+2018,St Thomas,Total,52
+2018,Portland,School,52
+2018,Portland,Church,28
+2018,Portland,Community Centre,1
+2018,Portland,Other,2
+2018,Portland,Total,8
+2018,St Mary,School,61
+2018,St Mary,Church,9
+2018,St Mary,Community Centre,1
+2018,St Mary,Other,0
+2018,St Mary,Total,71
+2018,St Ann,School,75
+2018,St Ann,Church,0
+2018,St Ann,Community Centre,3
+2018,St Ann,Other,0
+2018,St Ann,Total,78
+2018,Trelawny,School,43
+2018,Trelawny,Church,47
+2018,Trelawny,Community Centre,
+2018,Trelawny,Other,1
+2018,Trelawny,Total,97
+2018,St James,School,45
+2018,St James,Church,18
+2018,St James,Community Centre,4
+2018,St James,Other,0
+2018,St James,Total,67
+2018,Hanover,School,42
+2018,Hanover,Church,8
+2018,Hanover,Community Centre,3
+2018,Hanover,Other,1
+2018,Hanover,Total,54
+2018,Westmoreland,School,67
+2018,Westmoreland,Church,20
+2018,Westmoreland,Community Centre,2
+2018,Westmoreland,Other,1
+2018,Westmoreland,Total,90
+2018,St Elizabeth,School,80
+2018,St Elizabeth,Church,2
+2018,St Elizabeth,Community Centre,4
+2018,St Elizabeth,Other,0
+2018,St Elizabeth,Total,86
+2018,Manchester,School,55
+2018,Manchester,Church,2
+2018,Manchester,Community Centre,9
+2018,Manchester,Other,0
+2018,Manchester,Total,66
+2018,Clarendon,School,85
+2018,Clarendon,Church,0
+2018,Clarendon,Community Centre,8
+2018,Clarendon,Other,0
+2018,Clarendon,Total,93
+2018,St Catherine,School,51
+2018,St Catherine,Church,7
+2018,St Catherine,Community Centre,4
+2018,St Catherine,Other,0
+2018,St Catherine,Total,62
+2018,Jamaica,School,802
+2018,Jamaica,Church,151
+2018,Jamaica,Community Centre,53
+2018,Jamaica,Other,5
+2018,Jamaica,Total,1011

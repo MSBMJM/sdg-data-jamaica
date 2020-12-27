@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Development Assistance,Unit,Value
+2015,Grants,(US$M),0.98
+2015,Loans,(US$M),0.00
+2015,Total,(US$M),0.98
+2016,Grants,(US$M),75.39
+2016,Loans,(US$M),0.00
+2016,Total,(US$M),75.39
