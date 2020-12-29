@@ -1,7 +1,10 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Crime,Value
+2011,Theft,33.0
+2011,Praedial Larceny,16.0
+2011,Burglary,51.2
+2011,Vandalism,42.1
+2011,Robbery,50.9
+2011,Threats,43.6
+2011,Physical Assault,55.1
+2011,Sexual Assault,50.0
+2011,Fraud/Extortion,25.8
