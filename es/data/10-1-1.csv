@@ -1,7 +1,8 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Category,Value
+2010,Gini Coefficient,0.3941
+2012,Gini Coefficient,0.3994
+2013,Gini Coefficient,0.4087
+2014,Gini Coefficient,0.3786
+2015,Gini Coefficient,0.3803
+2016,Gini Coefficient,0.3518
+2017,Gini Coefficient,0.3748

@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Category,Unit,Value
+2015,Developing Countries,(%),0.042
+2016,Developing Countries,(%),0.041
+2015,Jamaica,(%),0.006
+2016,Developing Countries,(%),0.006

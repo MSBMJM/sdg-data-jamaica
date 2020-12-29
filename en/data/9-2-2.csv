@@ -1,7 +1,61 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Quarter,sex,Value
+2014,January,Both Sexes,6.3
+2014,January,Male,7.4
+2014,January,Female,4.9
+2014,April,Both Sexes,6.8
+2014,April,Male,7.9
+2014,April,Female,5.4
+2014,July,Both Sexes,6.3
+2014,July,Male,7.6
+2014,July,Female,4.5
+2014,October,Both Sexes,6.4
+2014,October,Male,7.6
+2014,October,Female,4.9
+2015,January,Both Sexes,7.0
+2015,January,Male,8.1
+2015,January,Female,5.5
+2015,April,Both Sexes,6.4
+2015,April,Male,7.5
+2015,April,Female,5.0
+2015,July,Both Sexes,6.1
+2015,July,Male,7.5
+2015,July,Female,4.2
+2015,October,Both Sexes,6.2
+2015,October,Male,7.7
+2015,October,Female,4.2
+2016,January,Both Sexes,6.3
+2016,January,Male,7.7
+2016,January,Female,4.5
+2016,April,Both Sexes,6.9
+2016,April,Male,8.0
+2016,April,Female,5.4
+2016,July,Both Sexes,6.9
+2016,July,Male,8.1
+2016,July,Female,5.3
+2016,October,Both Sexes,6.3
+2016,October,Male,7.4
+2016,October,Female,4.9
+2017,January,Both Sexes,6.5
+2017,January,Male,7.4
+2017,January,Female,5.3
+2017,April,Both Sexes,6.5
+2017,April,Male,7.3
+2017,April,Female,5.4
+2017,July,Both Sexes,7.0
+2017,July,Male,8.4
+2017,July,Female,5.3
+2017,October,Both Sexes,6.6
+2017,October,Male,8.2
+2017,October,Female,4.6
+2018,January,Both Sexes,6.3
+2018,January,Male,7.4
+2018,January,Female,4.9
+2018,April,Both Sexes,6.6
+2018,April,Male,7.7
+2018,April,Female,5.3
+2018,July,Both Sexes,7.0
+2018,July,Male,8.7
+2018,July,Female,4.8
+2018,October,Both Sexes,6.3
+2018,October,Male,7.8
+2018,October,Female,4.5

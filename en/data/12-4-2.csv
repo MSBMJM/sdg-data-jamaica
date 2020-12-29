@@ -1,7 +1,77 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Category of E-waste,Unit,Value
+2009,Total E-waste generated,('000 tonnes),12.83
+2009,Amount going to large equipment,('000 tonnes),3.03
+2009,Screens monitors and equipment containing screens (..),('000 tonnes),1.98
+2009,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),2.94
+2009,Small E-waste,('000 tonnes),4.88
+2009,of which lamps,('000 tonnes),0.26
+2009,of which small equipment,('000 tonnes),3.82
+2009,of which Small IT and telecommunication equipment,('000 tonnes),0.8
+2010,Total E-waste generated,('000 tonnes),13.56
+2010,Amount going to large equipment,('000 tonnes),3.23
+2010,Screens monitors and equipment containing screens (..),('000 tonnes),2.12
+2010,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.12
+2010,Small E-waste,('000 tonnes),5.08
+2010,of which lamps,('000 tonnes),0.28
+2010,of which small equipment,('000 tonnes),3.96
+2010,of which Small IT and telecommunication equipment,('000 tonnes),0.84
+2011,Total E-waste generated,('000 tonnes),14.36
+2011,Amount going to large equipment,('000 tonnes),3.5
+2011,Screens monitors and equipment containing screens (..),('000 tonnes),2.23
+2011,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.3
+2011,Small E-waste,('000 tonnes),5.32
+2011,of which lamps,('000 tonnes),0.31
+2011,of which small equipment,('000 tonnes),4.13
+2011,of which Small IT and telecommunication equipment,('000 tonnes),0.88
+2012,Total E-waste generated,('000 tonnes),14.98
+2012,Amount going to large equipment,('000 tonnes),3.72
+2012,Screens monitors and equipment containing screens (..),('000 tonnes),2.3
+2012,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.47
+2012,Small E-waste,('000 tonnes),5.48
+2012,of which lamps,('000 tonnes),0.32
+2012,of which small equipment,('000 tonnes),4.26
+2012,of which Small IT and telecommunication equipment,('000 tonnes),0.91
+2013,Total E-waste generated,('000 tonnes),15.56
+2013,Amount going to large equipment,('000 tonnes),3.94
+2013,Screens monitors  and equipment containing screens (..),('000 tonnes),2.33
+2013,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.64
+2013,Small E-waste,('000 tonnes),5.64
+2013,of which lamps,('000 tonnes),0.33
+2013,of which small equipment,('000 tonnes),4.39
+2013,of which: Small IT and telecommunication equipment,('000 tonnes),0.93
+2014,Total E-waste generated,('000 tonnes),16.12
+2014,Amount going to large equipment,('000 tonnes),4.17
+2014,Screens monitors  and equipment containing screens (..),('000 tonnes),2.33
+2014,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.8
+2014,Small E-waste,('000 tonnes),5.81
+2014,of which lamps,('000 tonnes),0.33
+2014,of which small equipment,('000 tonnes),4.54
+2014,of which: Small IT and telecommunication equipment,('000 tonnes),0.95
+2015,Total E-waste generated,('000 tonnes),16.67
+2015,Amount going to large equipment,('000 tonnes),4.41
+2015,Screens monitors and equipment containing screens (..),('000 tonnes),2.3
+2015,Temperature exchange equipment (Cooling and Freezing Equipment),('000 tonnes),3.96
+2015,Small E-waste,('000 tonnes),6.0
+2015,of which lamps,('000 tonnes),0.33
+2015,of which small equipment,('000 tonnes),4.7
+2015,of which: Small IT and telecommunication equipment,('000 tonnes),0.97
+2013,Used lead acid batteries exported,(Million Tonnes),2937.2
+2013,Lead sulphate exported,(Million Tonnes),613.6
+2013,Solid contaminated with polychlorinatedbiphenyl (PCB) exported,,0.0
+2013,Obsolete pesticide exported,,0.0
+2013,Total exported,(Million Tonnes),3550.8
+2014,Used lead acid batteries exported,(Million Tonnes),1738.0
+2014,Lead sulphate exported,(Million Tonnes),0.0
+2014,Lead sulphate exported,(Million Tonnes),0.0
+2014,Obsolete pesticide exported,,0.0
+2014,Total exported,(Million Tonnes),1738.0
+2015,Used lead acid batteries exported,(Million Tonnes),2472.3
+2015,Obsolete pesticide exported,,0.0
+2015,Solid contaminated with polychlorinatedbiphenyl (PCB) exported,,0.0
+2015,Obsolete pesticide exported,,0.0
+2015,Total exported,(Million Tonnes),2472.3
+2017,Used lead acid batteries exported,(Million Tonnes),3288.1
+2017,Lead sulphate exported,(Million Tonnes),0.0
+2017,Solid contaminated with polychlorinatedbiphenyl (PCB) exported,(Million Tonnes),126.9
+2017,Obsolete pesticide exported,(Million Tonnes),80.0
+2017,Total exported,(Million Tonnes),3495.0

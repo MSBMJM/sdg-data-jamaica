@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2010,2011,2012,2013,2014,2015,2016,2017],"Geographical Region":["Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica"],"Unit":["(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)","(per 100 inhabitants)"],"Value":[4.3,4.4,4.5,5.2,5.7,6.0,10.5,8.8]},"edges":{"From":["Geographical Region"],"To":["Unit"]}}
